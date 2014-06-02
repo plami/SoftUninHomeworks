@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\PrimesInGivenRange\obj\Debug\3.PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

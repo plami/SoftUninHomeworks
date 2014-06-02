@@ -1,0 +1,6 @@
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\Rectangles\bin\Debug\Rectangles.exe.config
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\Rectangles\bin\Debug\Rectangles.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\Rectangles\obj\Debug\Rectangles.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\Rectangles\obj\Debug\Rectangles.pdb

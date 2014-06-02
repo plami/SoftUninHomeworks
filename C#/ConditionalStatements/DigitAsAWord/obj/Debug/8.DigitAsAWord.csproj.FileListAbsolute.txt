@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\DigitAsAWord\bin\Debug\DigitAsAWord.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\DigitAsAWord\bin\Debug\DigitAsAWord.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\DigitAsAWord\bin\Debug\DigitAsAWord.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\DigitAsAWord\obj\Debug\8.DigitAsAWord.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\DigitAsAWord\obj\Debug\DigitAsAWord.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\DigitAsAWord\obj\Debug\DigitAsAWord.pdb

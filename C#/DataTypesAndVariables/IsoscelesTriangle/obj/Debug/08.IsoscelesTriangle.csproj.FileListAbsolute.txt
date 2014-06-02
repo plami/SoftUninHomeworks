@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

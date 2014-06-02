@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb

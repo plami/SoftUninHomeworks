@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\ZeroSubset\obj\Debug\ZeroSubset.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\ZeroSubset\obj\Debug\ZeroSubset.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\ZeroSubset\bin\Debug\ZeroSubset.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\ZeroSubset\bin\Debug\ZeroSubset.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\ZeroSubset\obj\Debug\11.ZeroSubset.csprojResolveAssemblyReference.cache

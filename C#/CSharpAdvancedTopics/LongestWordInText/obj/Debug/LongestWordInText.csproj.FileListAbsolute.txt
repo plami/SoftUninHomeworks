@@ -1,0 +1,1 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.exe.config

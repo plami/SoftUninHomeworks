@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

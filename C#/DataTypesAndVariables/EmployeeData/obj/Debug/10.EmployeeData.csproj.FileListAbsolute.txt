@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb

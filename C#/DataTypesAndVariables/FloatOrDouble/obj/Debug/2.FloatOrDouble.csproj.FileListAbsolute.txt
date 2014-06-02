@@ -1,0 +1,6 @@
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\FloatOrDouble\obj\Debug\2.FloatOrDouble.csprojResolveAssemblyReference.cache

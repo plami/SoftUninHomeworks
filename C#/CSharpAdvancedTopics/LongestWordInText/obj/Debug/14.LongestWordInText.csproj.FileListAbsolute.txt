@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\bin\Debug\LongestWordInText.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\obj\Debug\14.LongestWordInText.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\obj\Debug\LongestWordInText.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestWordInText\obj\Debug\LongestWordInText.pdb

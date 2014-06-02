@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

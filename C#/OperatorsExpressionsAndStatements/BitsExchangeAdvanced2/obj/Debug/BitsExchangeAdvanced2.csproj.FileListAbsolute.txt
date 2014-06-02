@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\BitsExchangeAdvanced2\bin\Debug\BitsExchangeAdvanced2.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\BitsExchangeAdvanced2\bin\Debug\BitsExchangeAdvanced2.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\BitsExchangeAdvanced2\bin\Debug\BitsExchangeAdvanced2.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\BitsExchangeAdvanced2\obj\Debug\BitsExchangeAdvanced2.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\BitsExchangeAdvanced2\obj\Debug\BitsExchangeAdvanced2.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\BitsExchangeAdvanced2\obj\Debug\BitsExchangeAdvanced2.pdb

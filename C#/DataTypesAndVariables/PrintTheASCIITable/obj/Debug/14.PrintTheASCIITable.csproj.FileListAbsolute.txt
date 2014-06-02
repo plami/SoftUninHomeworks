@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache

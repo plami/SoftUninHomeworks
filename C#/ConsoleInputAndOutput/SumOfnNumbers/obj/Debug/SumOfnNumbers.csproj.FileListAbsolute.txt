@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOfnNumbers\bin\Debug\SumOfnNumbers.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOfnNumbers\bin\Debug\SumOfnNumbers.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOfnNumbers\bin\Debug\SumOfnNumbers.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOfnNumbers\obj\Debug\SumOfnNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOfnNumbers\obj\Debug\SumOfnNumbers.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\SumOfnNumbers\obj\Debug\SumOfnNumbers.pdb

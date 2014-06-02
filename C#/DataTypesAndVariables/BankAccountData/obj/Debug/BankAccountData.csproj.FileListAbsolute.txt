@@ -1,0 +1,5 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\DataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.pdb

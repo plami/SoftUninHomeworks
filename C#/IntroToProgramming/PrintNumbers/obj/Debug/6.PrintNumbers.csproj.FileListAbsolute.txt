@@ -1,0 +1,5 @@
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\IntroToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\IntroToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Plamena Nikolova\documents\visual studio 2012\Projects\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb

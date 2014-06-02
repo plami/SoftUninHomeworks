@@ -1,0 +1,6 @@
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\CSharpAdvancedTopics\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\CSharpAdvancedTopics\PrimeChecker\bin\Debug\PrimeChecker.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\CSharpAdvancedTopics\PrimeChecker\bin\Debug\PrimeChecker.pdb
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\CSharpAdvancedTopics\PrimeChecker\obj\Debug\PrimeChecker.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\CSharpAdvancedTopics\PrimeChecker\obj\Debug\PrimeChecker.pdb
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\CSharpAdvancedTopics\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache

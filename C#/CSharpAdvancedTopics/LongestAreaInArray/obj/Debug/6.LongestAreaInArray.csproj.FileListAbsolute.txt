@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestAreaInArray\obj\Debug\LongestAreaInArray.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\LongestAreaInArray\obj\Debug\LongestAreaInArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PlayWithTheDebugger\bin\Debug\PlayWithTheDebugger.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PlayWithTheDebugger\bin\Debug\PlayWithTheDebugger.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PlayWithTheDebugger\bin\Debug\PlayWithTheDebugger.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PlayWithTheDebugger\obj\Debug\17.PlayWithTheDebugger.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PlayWithTheDebugger\obj\Debug\PlayWithTheDebugger.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PlayWithTheDebugger\obj\Debug\PlayWithTheDebugger.pdb

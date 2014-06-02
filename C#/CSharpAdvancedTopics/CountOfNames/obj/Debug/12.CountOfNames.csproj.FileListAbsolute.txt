@@ -1,0 +1,5 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\CountOfNames\bin\Debug\CountOfNames.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\CountOfNames\bin\Debug\CountOfNames.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\CountOfNames\bin\Debug\CountOfNames.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\CountOfNames\obj\Debug\CountOfNames.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\CountOfNames\obj\Debug\CountOfNames.pdb

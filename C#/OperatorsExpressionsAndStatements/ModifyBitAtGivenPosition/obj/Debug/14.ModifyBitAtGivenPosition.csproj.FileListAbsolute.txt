@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb

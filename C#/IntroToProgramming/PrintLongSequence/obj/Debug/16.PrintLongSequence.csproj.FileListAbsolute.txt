@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\IntroToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

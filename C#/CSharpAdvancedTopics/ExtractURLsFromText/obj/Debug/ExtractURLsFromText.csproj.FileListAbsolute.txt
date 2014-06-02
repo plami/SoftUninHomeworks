@@ -1,0 +1,5 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.pdb

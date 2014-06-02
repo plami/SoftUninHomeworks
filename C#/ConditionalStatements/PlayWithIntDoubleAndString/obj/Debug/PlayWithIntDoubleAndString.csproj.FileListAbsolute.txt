@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache

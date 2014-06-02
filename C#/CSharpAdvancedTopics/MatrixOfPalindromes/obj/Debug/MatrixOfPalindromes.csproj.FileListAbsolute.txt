@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\CSharpAdvancedTopics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

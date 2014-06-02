@@ -1,0 +1,3 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
