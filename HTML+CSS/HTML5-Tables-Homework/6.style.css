@@ -1,0 +1,58 @@
+body{
+     font-family: Tahoma;
+	 text-align: center;
+}
+.table th,td{
+     height: 40px;
+	 width: 80px;
+}
+#uni button{
+     width: 420px;
+	 height: 90px;
+	 font-size: 25px;
+	 color: #234465;
+	 font-weight: bold;
+}
+#google button{
+     width: 207px;
+	 height: 90px;
+	 color: #234465;
+	 font-size: 15px;
+}
+#github button{
+     width: 207px;
+	 height: 90px;
+	 color: #234465;
+	 font-size: 15px;
+}
+#game button,#youtube button,#gmail button,#facebook  button,#wc button {
+    width: 100px;
+	height: 75px;
+	color: #234465;
+	font-size: 15px;
+}
+#sleep button, #social button{
+     width: 90px;
+	 height: 60px;
+	 color: #234465;
+	 font-size: 13px;
+}
+#beer button {
+    width: 310px;
+	height:75px;
+    text-align: right;
+	color: #234465;
+    font-size: 25px;
+}
+#food button{
+     width: 100px;
+	 height: 135px;
+	 color: #234465;
+	 font-size: 15px;
+}
+#games button{
+     width: 205px;
+	 height: 135px;
+	 color: #234465;
+	 font-size: 15px;
+}

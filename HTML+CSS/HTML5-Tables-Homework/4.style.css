@@ -1,0 +1,21 @@
+table{ 
+     background: #234465;
+	 width: 1100px;
+	 height: 100px;
+}
+table a{
+     font-size: 12px;
+	 font-family: Tahoma;
+	 color: white;
+	 text-align:center
+}
+table #Main-menu{
+     text-align: center-left;
+	 display: inline;
+}
+.SoftUni{
+     height: 60px;
+}
+.User-and-search{
+     text-align: right;
+}
