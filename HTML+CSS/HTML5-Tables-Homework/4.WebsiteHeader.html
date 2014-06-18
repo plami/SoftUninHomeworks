@@ -1,47 +1,50 @@
 <!DOCTYPE html>
 <html>
-<header>
+<head>
      <title>Website Header</title>
-	 <link href="4.style.css" rel="stylesheet" />
-</header>
+	 <link rel="stylesheet" type="text/css" href="4.style.css">
+</head>
 <body>
-     <table id="SoftUni">
-	     <tbody>
+     <table id="header-table">
 		     <tr>
-			     <td rowspan="2">
+			     <td rowspan="2" class="header-logo">
 			         <a href="https://softuni.bg/"><img src="images/SoftUniWebsite.png" alt="SoftUni logo"/></a>
 			     </td>
 			     <td class="User-and-search">
-				     <img src="images/user.png" alt="User">
-				 </td>
-				 <td class="User-and-search">
-				 	<form>
-					     <input type="text" id="text" name="Search" autofocus="autofocus" />
-				         <input type="image" src="images/search.png" name="submitBtn" alt="Submit" />
-					 </form>
+				     <span class="notifications"> 0 <img src="images/notificationsIcon.png"></span>
+					 <span class="user">User</span>
+					 <input type="text" name="Search" placeholder="Search..." class="border-radius" />
+				     <input type="submit" name="submit" value="" class="border-radius" />
 				 </td>
 			 </tr>
-			 <tr colspan="2"> 
+			 <tr> 
 			     <td>
-					 <a href="https://softuni.bg/news" target="blank">NEWS</a>
-				 </td>
-				 <td>
-					 <a href="https://softuni.bg/about" target="blank">ABOUT THE UNIVERSITY</a>
-			     </td>
-				 <td>
-					 <a href="https://softuni.bg/trainings/courses/list" target="blank">TRAINING COURSE</a>
-				 </td>
-				 <td>
-					 <a href="https://softuni.bg/companies" target="blank">FOR COMPANIES</a>
-				 </td>
-				 <td>
-					 <a href="https://softuni.bg/forum" target="blank">FORUM</a>
-				 </td>
-				 <td>
-					 <a href="https://softuni.bg/contacts" target="_blank">CONTACTS</a>
+				     <ul class="navigation"> 
+					     <li>News</li>
+					     <li>About the university
+					 <ul class="dropdown-menu">
+					     <li><a href="https://softuni.bg/about">About Us</a></li>
+                         <li><a href="https://softuni.bg/plans">Plans</a></li>
+                         <li><a href="https://softuni.bg/partner-universities">Universities</a></li>
+                         <li><a href="https://softuni.bg/trainers">Lectors</a></li>
+                         <li><a href="https://softuni.bg/apply">Apply</a></li>
+                     </ul>
+					     </li>
+					     <li>Training courses
+					 <ul class="dropdown-menu">
+					     <li><a href="https://softuni.bg/trainings/courses/list">Courses</a></li>
+                         <li><a href="https://softuni.bg/trainings/coursesinstances/details/3">Web Fundamentals (HTML + CSS)</a></li>
+                         <li><a href="https://softuni.bg/trainings/coursesinstances/details/6">Teamwork and Personal Skills</a></li>
+                         <li><a href="https://softuni.bg/trainings/fasttracks">Fast track</a></li>	
+                         <li><a href="https://softuni.bg/trainings/seminars/details/1045">First steps with Microsoft SQL Server</a></li>
+					 </ul>    
+                         </li>                     
+					     <li>FOR COMPANIES</li>
+					     <li>FORUM</li>
+					     <li>CONTACTS</li>
+					 </ul>
 				 </td>
 			 </tr>
-		 </tbody>
 	 </table>	 
 </body>
 </html>
