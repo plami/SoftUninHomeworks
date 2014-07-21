@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DividedToK!\bin\Debug\CalculateN!DividedToK!.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DividedToK!\bin\Debug\CalculateN!DividedToK!.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DividedToK!\bin\Debug\CalculateN!DividedToK!.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DividedToK!\obj\Debug\CalculateN!DividedToK!.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DividedToK!\obj\Debug\CalculateN!DividedToK!.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DividedToK!\obj\Debug\CalculateN!DividedToK!.csprojResolveAssemblyReference.cache

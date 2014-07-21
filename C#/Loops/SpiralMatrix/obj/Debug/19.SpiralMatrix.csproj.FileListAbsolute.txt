@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

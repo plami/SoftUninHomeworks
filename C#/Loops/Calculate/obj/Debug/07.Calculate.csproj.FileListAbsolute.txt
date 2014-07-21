@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate\bin\Debug\Calculate.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate\obj\Debug\07.Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate\obj\Debug\Calculate.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate\obj\Debug\Calculate.pdb

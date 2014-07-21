@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\OddOrEvenProducts\bin\Debug\OddOrEvenProducts.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\OddOrEvenProducts\bin\Debug\OddOrEvenProducts.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\OddOrEvenProducts\bin\Debug\OddOrEvenProducts.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\OddOrEvenProducts\obj\Debug\10.OddOrEvenProducts.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\OddOrEvenProducts\obj\Debug\OddOrEvenProducts.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\OddOrEvenProducts\obj\Debug\OddOrEvenProducts.pdb

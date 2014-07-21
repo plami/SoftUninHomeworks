@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate-TwoLoops\bin\Debug\Calculate-TwoLoops.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate-TwoLoops\bin\Debug\Calculate-TwoLoops.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate-TwoLoops\bin\Debug\Calculate-TwoLoops.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate-TwoLoops\obj\Debug\07.Calculate-TwoLoops.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate-TwoLoops\obj\Debug\Calculate-TwoLoops.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\Calculate-TwoLoops\obj\Debug\Calculate-TwoLoops.pdb

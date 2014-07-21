@@ -1,0 +1,6 @@
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\Loops\NumberNotDivisibleBy3And7\bin\Debug\NumberNotDivisibleBy3And7.exe.config
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\Loops\NumberNotDivisibleBy3And7\bin\Debug\NumberNotDivisibleBy3And7.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\Loops\NumberNotDivisibleBy3And7\bin\Debug\NumberNotDivisibleBy3And7.pdb
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\Loops\NumberNotDivisibleBy3And7\obj\Debug\NumberNotDivisibleBy3And7.exe
+c:\users\plamena nikolova\documents\visual studio 2012\Projects\Loops\NumberNotDivisibleBy3And7\obj\Debug\NumberNotDivisibleBy3And7.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\NumberNotDivisibleBy3And7\obj\Debug\02.NumberNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

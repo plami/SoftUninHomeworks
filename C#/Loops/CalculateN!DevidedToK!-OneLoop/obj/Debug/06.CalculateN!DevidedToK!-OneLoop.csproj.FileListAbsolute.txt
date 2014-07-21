@@ -1,0 +1,6 @@
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DevidedToK!-OneLoop\bin\Debug\CalculateN!DevidedToK!-OneLoop.exe.config
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DevidedToK!-OneLoop\bin\Debug\CalculateN!DevidedToK!-OneLoop.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DevidedToK!-OneLoop\bin\Debug\CalculateN!DevidedToK!-OneLoop.pdb
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DevidedToK!-OneLoop\obj\Debug\06.CalculateN!DevidedToK!-OneLoop.csprojResolveAssemblyReference.cache
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DevidedToK!-OneLoop\obj\Debug\CalculateN!DevidedToK!-OneLoop.exe
+C:\Users\Plamena Nikolova\Documents\Visual Studio 2012\Projects\Loops\CalculateN!DevidedToK!-OneLoop\obj\Debug\CalculateN!DevidedToK!-OneLoop.pdb
