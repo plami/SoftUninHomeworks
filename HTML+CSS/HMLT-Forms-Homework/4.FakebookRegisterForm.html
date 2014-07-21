@@ -1,0 +1,76 @@
+<DOCTYPE html>
+<html>
+<head>
+     <title>Fakebook Register Form</title>
+	 <link href="4.style.css" rel="stylesheet" />
+</head>
+<body>
+     <div>
+     <h1>fakebook</h1>
+	 <p id="registration">Registration</p>
+	 <p>It is safe and it will always be!</p>
+	 </div>
+	 <form method="post" action="form.php">
+	     <fieldset class="none-important-info">
+		     <legend>None-Important Information</legend>
+			     <div class="LoginOne">
+			         <input type="text" name="First Name" value="First Name">
+					 <br />
+			         <input type="text" name="Your Email" value="Your Email">
+					 <br />
+			         <input type="password" name="Your Password" value="Your Password">
+			     </div>
+				 <div class="LoginTwo">
+			         <input type="text" name="Last Name" value="Last Name">
+					 <br />
+			         <input type="text" name="Phone Number" value="Phone Number">
+					 <br />
+			         <input type="text" name="Website" value="Website">
+			     </div>
+				 <div> 
+				     <span>Birthday</span>
+					 <br />
+				     <input name="date" type="date" value="2014-09-05"/>
+					 <br />
+					 <input type="radio" name="sex" value="1"/>Female</>
+					 <input type="radio" name="sex" value="2"/>Male</>
+					 <input type="radio" name="sex" value="3"/>Other</>					 
+				 </div> 
+				 <br />
+				 <button>Clear Form</button>
+		 </fieldset>
+	 <form method="post" action="form.php">
+	     <fieldset class="important-info">
+		     <legend>Important Information *required</legend>
+			     <div class="address">
+				     <select name="country" id="country">
+			         <option value="Value 1">Country</option>
+					 <option value="Value 1">Bulgaria</option>
+					 <option value="Value 1">Germany</option>
+					 </select>
+			         <input type="text" name="Village" value="Village">
+			         <input type="type" name="District" value="District">
+			     </div>
+				 <div class="exact-address">
+			         <input type="text" id="normal" name="Street" value="Street">
+			         <input type="text" id="additional" name="Nr" value="Nr">
+			         <input type="text" id="additional" name="Floor" value="Floor">
+			         <input type="text" id="additional" name="Ap Nr" value="Ap Nr">					 
+			     </div>
+				 <div class="color">
+				     <span>Door Color</span>
+					 <br />
+                     <input name="backgroundColor" type="color" id="color" value="#FF80C0"/>
+			         <input type="text" name="Water Meter Nr" value="Water Meter Nr">
+				     <select name="panties" id="panties">
+			         <option value="Value 1">Aunt Panties' Size</option>
+					 </select>					 
+				 </div>  
+				 <div class="more-information">
+				 <span>More Personal Information</span>
+				 <textarea name="comments">Give Us More Information!!!</textarea>
+				 </div>
+				 <button>Register</button>
+		 </fieldset>
+</body>
+</html>

@@ -1,0 +1,114 @@
+body{
+     background: #2B5997;
+	 font-size:Tahoma;
+	 color: white;
+	 width: 680px;
+}
+h1{
+     font-size: 150px;
+	 font-weight: bold;
+	 text-align: center;
+	 font-weight: bold;
+}
+p#registration{
+     font-size: 50px;
+	 text-align: center;
+	 font-weight: bold;
+	 margin-top: -100px;
+}
+p{
+     font-size:20px;
+     text-align: center;
+	 font-weight: bold;
+	 margin-top: -50px;
+}
+.none-important-info{
+     width: 230px;
+	 float: left;
+}
+.important-info{
+     width: 330px;
+	 float: right;
+}
+.none-important-info legend{
+     text-align: center;
+	 font-weight:bold;
+}
+.important-info legend{
+     text-align: center;
+	 font-weight:bold;
+}
+.LoginOne{
+     float:left;
+}
+.LoginOne input{
+     width: 120px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.LoginTwo{
+     float:right;
+}
+.LoginTwo input{
+     width: 120px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.address input{
+     width: 100px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.address #country{
+     width: 100px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.exact-address input#normal{
+     width: 100px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.exact-address input#additional{
+     width: 60px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.color input{
+     width: 100px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.color input#color{
+     height: 30px;
+}
+.color select#panties{
+     width: 100px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.more-information textarea{
+     width: 310px;
+	 color: #DDDDDD;
+	 font-weight: bold;
+}
+.important-info button{
+     background: #DDDDDD;
+     width: 310px;
+	 height: 45px;
+	 margin: 5px 0px;
+	 color: #2B5997;
+	 font-weight: bold;
+	 font-size:15px;
+}
+button{
+     background: #DDDDDD;
+     width: 260px;
+	 height: 40px;
+	 margin: 5px 0px;
+	 color: #2B5997;
+	 font-weight: bold;
+}
+button:hover{
+     color:#102540;
+}

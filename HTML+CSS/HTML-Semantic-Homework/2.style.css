@@ -1,0 +1,31 @@
+body{
+     background-color:#FFC0CB;
+	 width: 1100px;
+	 height: 300px;
+	 padding: 1px 35px 15px 23px;
+}
+h1{
+     text-align:center;
+	 margin-bottom: 0px;
+}
+figure{
+     margin: 0;
+}
+figcaption{
+     font-size: 130%;
+	 font-weight: bold;
+}
+section{
+     display:inline-block;
+	 width: 22%;
+	 vertical-align:top;
+	 border-radius: 5px;
+}
+#videos{
+     padding-top:0px;
+     padding-left: 60px;
+}
+meter{
+     width: 80%;
+	 height: 23px;
+}

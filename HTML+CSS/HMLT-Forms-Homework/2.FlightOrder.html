@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Flight Order</title>
+	 	 <link href="2.style.css" rel="stylesheet" />
+</head>
+<body>
+     <h1>Flight Order</h1>
+	 <table>
+	 <tr class="h">
+		     <td><label>From</label></td>
+			 <td><label>To</label></td>
+	 </tr>
+	 <tr>
+	     <td>
+			 <select name="enter a city" class="large">
+                 <option value="Value 1">enter city</option>			 
+	             <option value="Value 2">Sofia</option>
+				 <option value="Value 3">Bourgas</option>
+			 </select>
+		 </td>
+		 <td>
+		 	<select name="enter a city" class="large"> 
+			     <option value="Value 1">enter city</option>
+	             <option value="Value 2">Munich</option>
+				 <option value="Value 3">Rome</option>
+				 <option value="Value 4">London</option>
+			 </select>
+		 </td>
+	 </tr>
+	     <td></td>
+         <td>
+             <input type="checkbox" name="direct" value="1" id="direct"/>
+             <label for="direct">Prefer directs</label>
+         </td>
+     </tr>
+	 <tr class="h">
+		 <td><label>Departure Date</label></td>
+		 <td><label>Time Interval</label></td>
+	 </tr>
+	 <tr>
+	     <td><input type="date" value="2014-06-09" required=true class="large"/></td>
+		 <td>
+		     <input name="departureTime" type="time" value="00:20" required=true class="medium">
+			 <input name="arrivalTime" type="time" value="05:00" required=true class="medium">
+		 </td>
+	 </tr>
+	 <tr class="h">
+		 <td><label>Departure Date</label></td>
+		 <td><label>Time Interval</label></td>
+	 </tr>	 
+	 <tr>
+		 <td><input type="date" value="2014-06-13" required=true class="large"/></td>
+	     <td>
+			 <input name="departureTime" type="time" value="16:00" required=true class="medium">
+			 <input name="arrivalTime" type="time" value="22:00" required=true class="medium">
+		</td>
+	 </tr>
+	 <tr class="h">
+         <td>	 
+             <label for="12" class="small">12+</label>
+             <label for="212" class="small">2-12</label>			 
+             <label for="02" class="small">0-2</label>
+         </td>
+		 <td><label>Choose class</label></td>
+	 </tr>
+     <tr>	 
+	     <td>
+			 <input type="number" max="4" min="0" name="12" id="children"/>
+			 <input type="number" max="4" min="0" name="212" id="children"/>
+             <input type="number" max="4" min="0" name="02" id="children"/>
+		 </td>
+	     <td>
+			 <select name="choose class" class="large"> 
+			     <option value="Value 1">Economy</option>
+	             <option value="Value 2">Business</option>
+			 </select>
+		 </td>
+	 </tr>
+	 <tr>
+		 <td></td>
+		 <td><button>Search</button></td>
+     </tr>
+	 </table>
+</body>
+
+</html>

@@ -1,0 +1,45 @@
+body{
+	 background: #FFC0CB;
+	 width: 340px;
+}
+h1{
+     text-align: center;
+	 font-style: italic;
+	 text-transform: uppercase;
+	 font-weight: bold;
+}
+label{
+     font-style: italic;
+	 display: inline-block;
+	 font-size: 13px;
+}
+input,select{
+     border: 1px solid #d2cbcc;
+	 height: 18px;
+	 float:left;
+}
+select{
+     height: 23px;
+}
+button{
+     border: 1px solid #cac9ca;
+	 background-color: #ececec;
+	 height: 35px;
+	 width: 150px;
+	 font-size: 15px;
+	 font-weight: bold;
+}
+.large{
+     width: 150px;
+	 font-weight: bold;
+}
+.medium{
+     width: 73px;
+}
+.small{
+     width: 45px;
+}
+tr,td #children{
+     width: 40px;
+	 padding: 0px 4px;
+}
