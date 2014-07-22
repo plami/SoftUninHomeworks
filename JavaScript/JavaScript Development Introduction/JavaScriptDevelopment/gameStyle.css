@@ -1,0 +1,46 @@
+﻿body {
+}
+
+.ticTac{
+    display:inline-block;
+    /*border:1px solid black;*/
+}
+
+#wrapper{
+    width: 163.6px;
+    height: 165.5px;
+    background-color:black;
+    overflow:visible;
+}
+
+#wrapper .ticTac div{
+    width:164px;
+    height:58px;
+   
+}
+
+html,body,div,input{
+    margin:0;
+    padding:0;
+}
+
+.btn{
+    width:50px;
+    height:50px;
+    font-size:47px;
+    color:black;
+    vertical-align:top;
+    /*border:none;*/
+    display:block;
+    float:left;
+    margin-left:7px;
+    background-color:#fff;
+    border:none;
+    outline:0;
+    font-weight:bold;
+}
+
+.btn:nth-child(3n+1){
+    margin:0;
+    padding:0;
+}

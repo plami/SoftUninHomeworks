@@ -1,0 +1,10 @@
+{
+  "name": "JavaScript_Development_Introduction",
+  "version": "0.0.0",
+  "description": "JavaScript Development Introduction",
+  "main": "app.js",
+  "author": {
+    "name": "Plamena Nikolova",
+    "email": ""
+  }
+}
