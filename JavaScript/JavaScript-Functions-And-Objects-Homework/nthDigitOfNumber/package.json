@@ -1,0 +1,10 @@
+{
+  "name": "nthDigitOfNumber",
+  "version": "0.0.0",
+  "description": "nthDigitOfNumber",
+  "main": "app.js",
+  "author": {
+    "name": "Plamena Nikolova",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reverseWords",
+  "version": "0.0.0",
+  "description": "reverseWords",
+  "main": "app.js",
+  "author": {
+    "name": "Plamena Nikolova",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "findYoungestPerson",
+  "version": "0.0.0",
+  "description": "findYoungestPerson",
+  "main": "app.js",
+  "author": {
+    "name": "Plamena Nikolova",
+    "email": ""
+  }
+}

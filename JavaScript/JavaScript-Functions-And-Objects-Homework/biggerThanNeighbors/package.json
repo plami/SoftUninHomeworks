@@ -1,0 +1,10 @@
+{
+  "name": "biggerThanNeighbors",
+  "version": "0.0.0",
+  "description": "biggerThanNeighbors",
+  "main": "app.js",
+  "author": {
+    "name": "Plamena Nikolova",
+    "email": ""
+  }
+}

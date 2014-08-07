@@ -1,0 +1,10 @@
+{
+  "name": "ArrayPrototypeFunction",
+  "version": "0.0.0",
+  "description": "ArrayPrototypeFunction",
+  "main": "app.js",
+  "author": {
+    "name": "Plamena Nikolova",
+    "email": ""
+  }
+}
