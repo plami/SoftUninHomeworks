@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f816626-db27-495f-baef-d0345a0d6355" name="Default" comment="" />
+    <ignored path="PHP-Flow_Control_Homework.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHP-Flow_Control_Homework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="1.SquareRootSum.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SquareRootSum.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.CarRandomizer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="12" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1248">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.AnnualExpenses.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="11" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2016">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.PrimesInRange.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="1" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1728">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.SumOfDigits.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.SumOfDigits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="43" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1032">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.StringModifier.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.StringModifier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="29" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.15705766" vertical-offset="953" max-vertical-offset="1584">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarRandomizer.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/2.RichPeople'sProblems.php" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/1.SquareRootSum.php" />
+        <option value="$PROJECT_DIR$/CarRandomize.css" />
+        <option value="$PROJECT_DIR$/2.CarRandomizer.php" />
+        <option value="$PROJECT_DIR$/3.AnnualExpenses.php" />
+        <option value="$PROJECT_DIR$/4.PrimesInRange.php" />
+        <option value="$PROJECT_DIR$/5.SumOfDigits.php" />
+        <option value="$PROJECT_DIR$/6.ModifyString.php" />
+        <option value="$PROJECT_DIR$/6.StringModifier.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from XAMPP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="209" />
+    <option name="y" value="48" />
+    <option name="width" value="1031" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Flow_Control_Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Flow_Control_Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Flow_Control_Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Forum" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f816626-db27-495f-baef-d0345a0d6355" name="Default" comment="" />
+      <created>1408385850773</created>
+      <updated>1408385850773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="209" y="48" width="1031" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18620689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="966" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="11" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="1" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="1728">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.SumOfDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="168">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="966" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="11" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="1" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="1728">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.SumOfDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="168">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="966" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="11" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="1" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="1728">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.SumOfDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="168">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="966" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="12" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="9" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="966" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="12" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="672">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="590" max-vertical-offset="1128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="1128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareRootSum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.SquareRootSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="34" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarRandomizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.AnnualExpenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="11" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PrimesInRange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="1" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1728">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.CarRandomizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.SumOfDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="43" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1032">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.StringModifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="29" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.15705766" vertical-offset="953" max-vertical-offset="1584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
